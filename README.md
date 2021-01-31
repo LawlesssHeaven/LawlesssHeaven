@@ -2,6 +2,7 @@
 
 A <b>few pointers</b> on me:   
 &nbsp; I am Roberts Grants, full stack developer 
+
 &nbsp; Currently, developing backend using .Net Core 
 
 
